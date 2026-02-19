@@ -248,7 +248,7 @@ public class BewerbungsApp extends Application {
         addDataRow(grid, 1, "Birthday:", "08.03.1991");
         addDataRow(grid, 2, "Nationality:", "Portugal");
         addDataRow(grid, 3, "Residence:", "Soutosa, Moimenta da Beira, Portugal");
-        addDataRow(grid, 4, "E-Mail:", "steven.carrilho@fujitsu.com");
+        addDataRow(grid, 4, "E-Mail:", "steven.dias.carrilho@gmail.com");
         addDataRow(grid, 5, "Phone:", "928044197");
 
         card.getChildren().add(grid);
