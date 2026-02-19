@@ -333,7 +333,7 @@ public class BewerbungsApp extends Application {
         info.setTextFill(Color.web(TEXT_COLOR));
 
         // E-Mail Button
-        Button emailBtn = createLinkButton("📧 Send E-Mail", "steven.carrilho@fujitsu.com");
+        Button emailBtn = createLinkButton("📧 Send E-Mail", "steven.dias.carrilho@gmail.com");
 
         // GitHub Button
         Button githubBtn = createLinkButton("🔗 GitHub Profile", "https://github.com/Sunshine031991");
